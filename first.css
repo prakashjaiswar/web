@@ -1,0 +1,28 @@
+marquee
+{
+   background-color: red;
+   color: white;
+   font-size: 30px;
+   border-radius: 10px;
+   border: 2px solid blue;
+}
+button{
+    background-color: orange;
+    color: antiquewhite;
+    width: 5rem;
+    height: 2rem;
+    font-size:1.2rem ;
+    font-family: cursive;
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    background-color: yellow;
+    color: brown;
+    border: 2px solid brown;
+    cursor: pointer;
+}
+
+u{
+    background-color: yellow;
+}
